@@ -1,6 +1,6 @@
 Name:		python-email-reply-parser
 Version:	0.5.12
-Release:	1
+Release:	2
 Summary:	Email reply parser
 License:	MIT
 Group:		Development/Python
